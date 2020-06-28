@@ -1,0 +1,17 @@
+#Observation:
+#1.Schools with a larger population of students are more vunerable for lower passing grades. 
+#When the teacher to student ratio is smaller, grades improve and mitigate failing grades.
+#This is shown by the school size. Smaller populated schools have a much higher overall passing rate than 
+#schools with a large population. 
+
+#2.Dispite the size of the schools, the budget per student are close to even for all schools. 
+#Funding is not a concern with greade performance. 
+#This is shown by the budget by size. This illustrates that lower funded schools have better overall passing rates. 
+
+#3.Charter Schools have a significant higher passing scores than district schools. 
+
+#4.Schools should consider either separating larger schools into smaller schools.
+# School boards should also consider to change all district type schools into all charter schools. 
+#Charter schools focus on the strengths of each student. 
+#District schools use a known failing teaching system that is more of a "cookie cutter" education 
+#for all students. 
